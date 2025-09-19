@@ -1,0 +1,52 @@
+Rui Wei
+Toronto/Markham, Ontario
+ruiwei1208@gmail.com
+6475447668
+
+
+Objective
+Motivated and detail-oriented Computer Engineering Technology student at Seneca College, actively seeking co-op or internship opportunities to apply and expand technical skills in embedded systems, programming, and networking within a dynamic, hands-on environment.
+
+Education
+Seneca College, Toronto, Ontario
+Advanced Diploma in Computer Engineering Technology
+Expected Graduation: April 2027
+Relevant Courses: Data Structures, Embedded Systems, Computer Networks, C/C++ Programming, Linux/Unix, Database Administration
+
+ Technical Skills
+Programming Languages: C, C++
+
+Tools & Technologies: Git, Visual Studio, Arduino, Raspberry Pi, Wireshark
+
+Operating Systems: Windows, Linux (Ubuntu, CentOS), Basic RTOS
+
+Networking: TCP/IP, Routing & Switching, Cisco Packet Tracer
+
+Databases: SQL Server, MySQL, Microsoft Access
+
+ Projects
+Arduino-based Home Security System
+
+Developed a motion sensor-triggered alarm system using Arduino UNO
+
+Integrated a buzzer, LED, and PIR sensor, programmed in C
+
+Demonstrated skills in embedded systems, sensor integration, and real-time input handling
+
+ Work Experience
+Part-time Waiter
+Local Restaurant – Toronto/NorthYork
+
+
+Provided efficient customer service in a fast-paced environment
+
+Developed strong communication and time management skills
+
+Maintained professionalism and teamwork under pressure
+
+ Languages
+English 
+
+Mandarin Chinese 
+
+Cantonese 
